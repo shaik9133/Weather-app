@@ -1,6 +1,4 @@
 # Weather-app
-To add a description to your GitHub repository, follow these steps:
-
 1. **Navigate to Your Repository:**
    Open your web browser and go to the GitHub page of your repository.
 
