@@ -11,7 +11,7 @@
     "react-leaflet": "^4.2.1",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4",
-    "@babel/plugin-proposal-private-property-in-object": "^7.16.5"
+    "@babel/plugin-proposal-private-property-in-object": "^1.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
